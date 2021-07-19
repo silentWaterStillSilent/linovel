@@ -44,8 +44,8 @@ Supported website:
 	    -v --version                               Show version
 	
 	Examples:
-	    linovel.py -s http://qitawenku.360dxs.com/book_3037.html
-	    linovel.py -o d:/ -f=azw3 http://qitawenku.360dxs.com/book_3037.html
+	  python3  linovel.py -s http://qitawenku.360dxs.com/book_3037.html
+	  python3  linovel.py -o d:/ -f=azw3 http://qitawenku.360dxs.com/book_3037.html
 ![lknovel截图][image-4]
 
 ### Generate format other than epub
