@@ -10,6 +10,8 @@ Supported website:
 - [360℃小说][2]
 - [轻小说文库][3]
 
+只能支持以上2个网站的东西，如果需要其他东西，那么需要依照novel_360dxs.py来新增支持的网站。
+
  If you find any other website, please open an issue and tell me.
 
 ![iPhone截图][image-3]
